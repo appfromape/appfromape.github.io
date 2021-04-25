@@ -1,5 +1,5 @@
 ---
-title: My New Post
+title: Hexo 安裝教學
 date: 2021-04-24 21:29:30
 tags:
 ---
