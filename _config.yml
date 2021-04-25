@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 程式猿的技術筆記
+subtitle: 'appfromape's blogger'
 description: ''
 keywords:
 author: appfromape
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/appfromape
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
