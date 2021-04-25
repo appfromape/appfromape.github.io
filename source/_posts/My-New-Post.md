@@ -17,11 +17,11 @@ tags:
 
 ## 安裝 Hexo
 
->  $ npm install -g hexo-cli
+`$ npm install -g hexo-cli`
 
 一旦 Hexo 完成後，請執行下列指令，Hexo 會在指定資料夾中建立所有您需要的檔案。 
 
-` $ hexo init <folder> `
+`$ hexo init <folder>`
 
 `$ cd <folder>`
 
